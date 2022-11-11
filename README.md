@@ -12,7 +12,7 @@
   - [RST Managed](https://rapid-software-testing.com/rst-managed/), August 2020; 
   - [RST Explored](https://rapid-software-testing.com/rst-explored/), December 2019; 
   - [RST Applied](https://rapid-software-testing.com/rst-applied/), August 2017
-- Since late 2018 I started documenting and improving my personal work methodology, **[Raid Software Testing](https://raid-software-testing.com/)** which is a “guerrilla” work methodology for software testers in “monster” projects (read more [in my post about RaidST](https://filfreire.com/posts/asymmetric_warfare)).
+- Since late 2018 I started documenting and improving my personal work methodology, **Raid Software Testing** which is a “guerrilla” work methodology for software testers in “monster” projects (read more [in my post about RaidST](https://filfreire.com/posts/asymmetric_warfare)).
 
 ## Feel free to:
 - Visit my blog: [filfreire.com](https://filfreire.com). 
